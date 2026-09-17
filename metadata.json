@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Bharat Museum",
+  "description": "An interactive digital museum exploring Indian heritage across states and districts, featuring monuments, traditional arts, instruments, textiles, cuisine, crafts, and performing arts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
